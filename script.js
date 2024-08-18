@@ -6,7 +6,7 @@ function createDivs(num) {
     }
     else {
     }
-    let size = 300/num;
+    let size = 960/num;
 
     for(let i = 0; i < num; i++) {
         let horizontal = document.createElement("div");

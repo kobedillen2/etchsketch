@@ -8,8 +8,8 @@ body {
     width: max-content;
     margin: 0 auto;
     width: 100%;
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 960px;
+    max-height: 960px;
     height: auto;
     display: block;
 }
