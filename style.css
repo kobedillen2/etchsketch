@@ -1,0 +1,27 @@
+#container {
+    border: 1px solid black;
+    width: max-content;
+    margin: 0 auto;
+    width: 960px;
+    height: 960px;
+    align-items: stretch;
+}
+
+.gridBox {
+}
+
+.horizontal {
+display: flex;
+align-items: stretch;
+}
+
+.hover {
+    background-color: pink;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 30px;
+}
