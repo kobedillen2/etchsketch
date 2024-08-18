@@ -2,17 +2,15 @@
     border: 1px solid black;
     width: max-content;
     margin: 0 auto;
-    width: 960px;
-    height: 960px;
-    align-items: stretch;
-}
-
-.gridBox {
+    width: 100%;
+    max-width: 960px;
+    max-height: 960px;
+    height: auto;
+    display: block;
 }
 
 .horizontal {
 display: flex;
-align-items: stretch;
 }
 
 .hover {
